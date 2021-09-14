@@ -1,0 +1,11 @@
+*.pyc
+*.json
+*.awg
+*-code.py
+*.h5
+*.py~
+*.py#
+*.json~
+*.coverage
+*.ipynb_checkpoints
+*.egg-info
