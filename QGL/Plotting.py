@@ -57,7 +57,7 @@ def build_waveforms(seq):
         concatShapes[q] = np.append(concatShapes[q], 0)
     return concatShapes
 
-#
+
 # def plot_waveforms(waveforms, figTitle=''):
 #     channels = waveforms.keys()
 #     # plot
@@ -80,7 +80,7 @@ def build_waveforms(seq):
 #         plots.append(fig)
 #     bk.show(column(*plots))
 
-#
+
 # def show(seq):
 #     waveforms = build_waveforms(seq)
 #     plot_waveforms(waveforms)
